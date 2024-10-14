@@ -46,4 +46,4 @@ while True:
 
 ![Screenshot 2024-04-20 110740](https://github.com/Danica-christa/2b_SLIDING_WINDOW_PROTOCOL/assets/151514009/afd8da0f-2c7e-4b39-a482-4d3150599f4a)
 ## RESULT
-
+Thus, python program to perform stop and wait protocol was successfully executed
